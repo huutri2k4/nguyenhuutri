@@ -1,4 +1,4 @@
-https://huutri2k4.github.io/aws-internship-report-site/
+baseURL = "https://huutri2k4.github.io/aws-internship-report-site/"
 relativeURLs = false
 canonifyURLs = false
 defaultContentLanguage = "en"
